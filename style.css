@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    align-self: center;
+    background-color: aqua;
+}
+h1{
+    font-style: roboto;
+     color: darkgreen;
+}
+p{
+    font-size: 20px;
+    color: blue;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    border-color: chocolate;
+    border-radius: 200px;
+}
